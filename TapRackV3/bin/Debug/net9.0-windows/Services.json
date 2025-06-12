@@ -1,0 +1,14 @@
+[
+	{
+		"Name":"dcsvc"
+	},
+	{
+		"Name":"AppReadiness"
+	},
+	{
+		"Name":"AppXSvc"
+	},
+	{
+		"Name":"PenService_adc02"
+	}
+]
