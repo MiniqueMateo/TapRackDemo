@@ -1,0 +1,6 @@
+C:\Users\userAdm\Documents\wpf\TapRack\obj\Debug\net9.0-windows\TapRack.csproj.AssemblyReference.cache
+C:\Users\userAdm\Documents\wpf\TapRack\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\userAdm\Documents\wpf\TapRack\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\userAdm\Documents\wpf\TapRack\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\userAdm\Documents\wpf\TapRack\obj\Debug\net9.0-windows\TapRack_MarkupCompile.cache
+C:\Users\userAdm\Documents\wpf\TapRack\obj\Debug\net9.0-windows\TapRack_MarkupCompile.lref
